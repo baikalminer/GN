@@ -1,2 +1,2 @@
 # GN
-Baikal Giant N Miner
+Baikal Giant Cryptonight, Cryptonight-lite Miner
